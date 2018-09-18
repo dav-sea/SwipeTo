@@ -1,0 +1,17 @@
+.vscode
+builds
+Libary
+obj
+Packages
+Temp
+.collabignore
+Assembly-CSharp.csproj
+Assembly-CSharp-Editor.csproj
+Assembly-CSharp-Editor-firstpass.csproj
+Assembly-CSharp-firstpass.csproj
+KeyStore.keystore
+ks2.keystore
+Sertification.keystore
+SertificationOGa.keystore
+Swipe To.sln
+Library

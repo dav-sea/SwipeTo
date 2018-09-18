@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1616029233892662}
+  m_IsPrefabParent: 1
+--- !u!1 &1616029233892662
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4445861746356644}
+  - component: {fileID: 114247391919914996}
+  m_Layer: 0
+  m_Name: BlueBattle
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4445861746356644
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1616029233892662}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114247391919914996
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1616029233892662}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c66e533e2e6374f4b94c226f96388391, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PaletteConfiguration:
+    NormalColor: {r: 0.7529412, g: 0.7529412, b: 0.7529412, a: 1}
+    LoseColor: {r: 1, g: 0.8470589, b: 0, a: 1}
+    BlockColor: {r: 0.058823533, g: 0.39607847, b: 0.8588236, a: 1}
+    SideColor: {r: 0.13333334, g: 0.13333334, b: 0.13333334, a: 1}
+    BackgroundColor: {r: 0.841, g: 0.841, b: 0.841, a: 1}
+    UIBorderColor: {r: 0.88235295, g: 0.88235295, b: 0.88235295, a: 1}
+    UIActionColor: {r: 0.058823533, g: 0.39607847, b: 0.8588236, a: 1}
+    UIScoreColor: {r: 1, g: 1, b: 1, a: 1}
+    UIMultiplierColor: {r: 1, g: 1, b: 1, a: 1}
+    UITextColor: {r: 0, g: 0, b: 0, a: 1}
+    UITextOutline: {r: 1, g: 1, b: 1, a: 1}
+    CoinColor: {r: 1, g: 1, b: 1, a: 1}
+    UILockColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    FirstBackgroundColor: {r: 0, g: 0, b: 0, a: 0}
+    ScoundBackgroundColor: {r: 0, g: 0, b: 0, a: 0}
+  BackgroundPrefab: {fileID: 1699635778454006, guid: 3ce637c0b14a4ff48b575f57f525883b,
+    type: 2}

@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+	<TranslationMap Languge="English">
+			<!--                    | Daily Screen |                    -->
+			<Element Name="UI_Daily_CoinsForAds">Watch video
+	for coins</Element>
+			<Element Name="UI_Seconds">s</Element>
+			<Element Name="UI_Minutes">m</Element>
+			<Element Name="UI_Hours">h</Element>
+			<!--                                    -->
+			<!--                       | TopBar |                       -->
+			<Element Name="UI_Lvl">lvl</Element>
+			<Element Name="UI_TopBar_Training_SmallLevelViewer">Tap here
+	to show
+	your progress</Element>
+			<!--                                                        -->
+			<!--                   | MainMenu Screen |                  -->
+			<Element Name="UI_MainMenu_ModeName_Classic">Casual mode</Element>
+			<Element Name="UI_MainMenu_ModeName_Time">Time mode</Element>
+			<Element Name="UI_MainMenu_ModeName_Versus">Competitive mode</Element>
+			<Element Name="UI_MainMenu_ModeDescription_Classic">Each swipe
+	makes game more interesting</Element>
+			<Element Name="UI_MainMenu_ModeDescription_Time">Collect as many points as
+	possible in 60 seconds</Element>
+			<Element Name="UI_MainMenu_ModeDescription_Versus">For two players. Who reacts faster?
+	No progress in this mode</Element>
+			
+			<Element Name="UI_MainMenu_Training_GameMods">Select mode using arrows</Element>
+			<Element Name="UI_MainMenu_Training_Customize">Click here
+	to configure 
+	appearance</Element>
+			<!--                                                        -->
+			<!--                  | Inventory Screen |                  -->
+			<Element Name="UI_Inventory_Selected">SELECTED</Element>
+			<Element Name="Message_NotEnoughCoins">Not enough coins</Element>
+			<!--                                                        -->
+			<!--                     | Lose Screen |                    -->
+			<Element Name="UI_Best">High score</Element>
+			<Element Name="Message_NewBest">New high score!</Element>
+			<!--               |Dual Lose Screen|                -->
+			<Element Name="UI_YouLose">You lost!</Element>
+			<Element Name="UI_YouWin">You won!</Element>
+			<!--                                                 -->
+			<!--                                                        -->
+			<!--                        | Other |                       -->
+			<Element Name="Training_ReducingCube">Pay attention, if nothing is done, the cube will decrease, the smaller it is, the closer you are to the loss.</Element>
+			<Element Name ="UI_NewLevel_LabelOpen">OPENED:</Element>
+			<Element Name ="UI_OpenNumber">Opens on {0} lvl.</Element>
+			<Element Name ="UI_Bonus">Bonus: {0} coins</Element>
+			<Element Name="Message_NewLevel">New level!</Element>
+			<Element Name="UI_AdsLoading">The video is loading</Element>
+			<Element Name="Format_NeedScores">{0} points until
+level up</Element>
+			<Element Name="UI_MaxLevel">The maximum level has been reached</Element>
+			<Element Name="LevelDesc_2">- Sign "Multiplier"
+	- Sign "Trap"
+	- Access to game modes
+
+	- Reward: 10 coins
+	</Element>
+			<Element Name="LevelDesc_3">- Access to customization
+	- Access to daily advertising
+	- Sign "Lot Swipes"
+	- Sign "Coin"
+
+	- Reward: 15 coins
+	</Element>
+			<Element Name="LevelDesc_4">- Sign "Pointer"
+	- Sign "Second chance"
+
+	- Reward: 20 coins
+	</Element>
+			<Element Name="LevelDesc_5">- Sign "Magnifier"
+
+	- Reward: 25 coins
+	</Element>
+			<Element Name="LevelDesc_6">- Sign "Freeze"
+
+	- Reward: 30 coins
+	</Element>
+			<Element Name="LevelDesc_7">- Sign "Random"
+
+	- Reward: 35 coins
+	</Element>
+			<!--                                                        -->
+
+
+			<!--                                                        -->
+			<Element Name ="T_Arrow">When see the arrow, swipe in the direction of it</Element>
+			<Element Name ="T_Transfer">Swipe in the opposite direction of the icon</Element>
+			<Element Name ="T_Question">Swipe this sign, so another appears instead</Element>
+			<Element Name ="T_Swipes">Swipe in the direction of the sign specified number of times</Element>
+			<Element Name ="T_Coin">Swipe in the direction of the sign to get a coin</Element>
+			<Element Name ="T_Fuller">Swipe in the direction of the sign to enlarge the cube</Element>
+			<Element Name ="T_Freezer">Swipe in the direction of the sign to freeze the cube</Element>
+			<Element Name ="T_Life">Swipe in the direction of the sign to get a life</Element>
+			<Element Name ="T_Multiplier">Swipe in the direction of the sign to get score multiplier</Element>
+			<!--                                                        -->
+
+			<!--                   | Levels Screen |                    -->
+			<Element Name="UI_LabelNextLevel">At the next level:</Element>
+			<!--                                                        -->
+
+		</TranslationMap>
+
+	<TranslationMap Languge="German">
+		<!--                    | Daily Screen |                    -->
+		<Element Name="UI_Daily_CoinsForAds">Schau das Video um
+gratis Münzen zu bekommen</Element>
+		<Element Name="UI_Seconds">sek</Element>
+		<Element Name="UI_Minutes">min</Element>
+		<Element Name="UI_Hours">stu</Element>
+		<!--                                    -->
+		<!--                       | TopBar |                       -->
+		<Element Name="UI_Lvl">lvl</Element>
+        <Element Name="UI_TopBar_Training_SmallLevelViewer">Drücke hier um
+deinen Fortschritt
+anzusehen</Element>
+		<!--                                                        -->
+		<!--                   | MainMenu Screen |                  -->
+		<Element Name="UI_MainMenu_ModeName_Classic">lockerer Modus</Element>
+		<Element Name="UI_MainMenu_ModeName_Time">Zeitmodus</Element>
+		<Element Name="UI_MainMenu_ModeName_Versus">Rangmodus</Element>
+		<Element Name="UI_MainMenu_ModeDescription_Classic">Bei jedem mal wenn du über den Bildschirm
+wischt wird das Spiel interestanter</Element>
+		<Element Name="UI_MainMenu_ModeDescription_Time">Sammele so viele Punkte wie
+möglich in 60 Sekunden</Element>
+		<Element Name="UI_MainMenu_ModeDescription_Versus">Für zwei Spieler. Wer reagiert schneller?
+Kein Fortschritt in diesem Modus</Element>
+		
+		<Element Name="UI_MainMenu_Training_GameMods">Wähle den Mouds indem du
+die Pfeiltasten verwendest</Element>
+		<Element Name="UI_MainMenu_Training_Customize">Drücke hier um
+das Aussehen
+anzupassen</Element>
+		<!--                                                        -->
+		<!--                  | Inventory Screen |                  -->
+		<Element Name="UI_Inventory_Selected">Ausgewählt</Element>
+		<Element Name="Message_NotEnoughCoins">Nicht genügend Münzen</Element>
+		<!--                                                        -->
+		<!--                     | Lose Screen |                    -->
+		<Element Name="UI_Best">Highscore</Element>
+		<Element Name="Message_NewBest">Neuer Highscore!</Element>
+		<!--               |Dual Lose Screen|                -->
+		<Element Name="UI_YouLose">Du hast verloren!</Element>
+		<Element Name="UI_YouWin">Du hast gewonnen!</Element>
+		<!--                                                 -->
+		<!--                                                        -->
+		<!--                        | Other |                       -->
+		<Element Name="Training_ReducingCube">Beachten Sie, wenn nichts zu tun, dann wird Cubic abnehmen, je kleiner es ist, desto näher Sie verlieren.</Element>
+		<Element Name ="UI_NewLevel_LabelOpen">Offen:</Element>
+		<Element Name ="UI_OpenNumber">Öffnet in lvl {0}</Element>
+		<Element Name ="UI_Bonus">Bonus: {0} Münzen</Element>
+		<Element Name="Message_NewLevel">Neues Level!</Element>
+		<Element Name="UI_AdsLoading">Das Video lädt</Element>
+		<Element Name="Format_NeedScores">{0} Punkte bis zum
+Levelaufstieg</Element>
+		<Element Name="UI_MaxLevel">Das Maximallevel ist erreicht</Element>
+		<Element Name="LevelDesc_2">- Schield "Multiplikator"
+- Schield "Falle"
+- Zugriff zum Spielmodus
+
+- Belohnung: 10 Münzen
+</Element>
+		<Element Name="LevelDesc_3">- Zugriff zur Anpassung
+- Zugriff zur täglichen Werbung
+- Schield "Viel Wischen"
+- Schield "Münze"
+
+- Belohnung: 15 Münzen
+</Element>
+		<Element Name="LevelDesc_4">- Schield "Wegweisser"
+- Schield "Zweite Chance"
+
+- Belohnung: 20 Münzen
+</Element>
+		<Element Name="LevelDesc_5">- Schield "Bildschirmlupe"
+
+- Belohnung: 25 Münzen
+</Element>
+		<Element Name="LevelDesc_6">- Schield "Einfrieren"
+
+- Belohnung: 30 Münzen
+</Element>
+		<Element Name="LevelDesc_7">- Schield "Zufall"
+
+- Belohnung: 35 Münzen
+</Element>
+		<!--                                                        -->
+
+
+		<!--                                                        -->
+		<Element Name ="T_Arrow">Wenn du den Pfeil siehst, dann wische in diese Richtung</Element>
+		<Element Name ="T_Transfer">Wische in die andere Richtung des Symboles</Element>
+		<Element Name ="T_Question">Wische das Schield weg damit ein anderes erscheint</Element>
+		<Element Name ="T_Swipes">Wische in die Richtung des Schieldes so oft wie es angezeigt wird</Element>
+		<Element Name ="T_Coin">Wische in die Richtung des Schieldes um eine Münze zu erhalten</Element>
+		<Element Name ="T_Fuller">Wische in die Richtung des Schieldes um den Würfel zu vergrößern</Element>
+		<Element Name ="T_Freezer">Wische in die Richtung des Schieldes um den Würfel einzufrieren</Element>
+		<Element Name ="T_Life">Wische in die Richtung des Schieldes um ein Leben zu erhalten</Element>
+		<Element Name ="T_Multiplier">Wische in die Richtung des Schieldes um einen Punkte-Multiplikator zu erhalten</Element>
+		<!--                                                        -->
+
+		<!--                   | Levels Screen |                    -->
+		<Element Name="UI_LabelNextLevel">beim nächsten Level:</Element>
+		<!--                                                        -->
+
+	</TranslationMap>
+</Package>

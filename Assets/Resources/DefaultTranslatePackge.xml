@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+	<TranslationMap Languge="Russian">
+		<Element Name="UI_Daily_CoinsForAds">Получить монеты
+за просмотр видео</Element>
+		<Element Name="UI_Seconds">с</Element>
+		<Element Name="UI_Minutes">м</Element>
+		<Element Name="UI_Hours">ч</Element>
+		<Element Name="UI_Lvl">ур</Element>
+		<Element Name="UI_TopBar_Training_SmallLevelViewer">Нажми сюда,
+чтобы просмотреть
+свой прогресс</Element>
+
+		<Element Name="UI_MainMenu_ModeName_Classic">Классический режим</Element>
+		<Element Name="UI_MainMenu_ModeName_Time">Режим на время</Element>
+		<Element Name="UI_MainMenu_ModeName_Versus">Соперничество</Element>
+		<Element Name="UI_MainMenu_ModeDescription_Classic">С каждым свайпом
+играть будет все интереснее</Element>
+		<Element Name="UI_MainMenu_ModeDescription_Time">Набери как можно больше очков
+за 60 секунд</Element>
+		<Element Name="UI_MainMenu_ModeDescription_Versus">Для двух игроков. Кто реагирует быстрее?
+В этом режиме прогресс не засчитывается</Element>
+
+		<Element Name="UI_MainMenu_Training_GameMods">С помощью стрелочек можно выбрать режим</Element>
+		<Element Name="UI_MainMenu_Training_Customize">Нажми сюда, чтобы настроить внешний вид</Element>
+
+		<Element Name="Training_ReducingCube">Обрати внимание, если ничего не делать, то кубик будет уменьшаться, чем он меньше, тем ближе ты к проигрушу.</Element>
+		<Element Name="UI_NewLevel_LabelOpen">ОТКРЫТО:</Element>
+		<Element Name="UI_Inventory_Selected">ВЫБРАНО</Element>
+		<Element Name="Message_NotEnoughCoins">Не хватает монет</Element>
+		<Element Name="UI_Best">Рекорд</Element>
+		<Element Name="Message_NewBest">Новый рекорд!</Element>
+		<Element Name="UI_YouLose">Ты проиграл!</Element>
+		<Element Name="UI_YouWin">Ты выйграл!</Element>
+		<Element Name ="UI_Bonus">Бонус: {0} монет</Element>
+		<Element Name ="UI_OpenNumber">Откроется на {0} ур.</Element>
+		<Element Name="Message_NewLevel">Новый уровень!</Element>
+		<Element Name="UI_AdsLoading">Ролик загружается</Element>
+		<Element Name="Format_NeedScores">До следующего уровня
+осталось {0} очков</Element>
+		<Element Name="UI_MaxLevel">Достигнут максимальный уровень</Element>
+		<Element Name="LevelDesc_2">-Значок "Множитель"
+-Доступ к режимам игры
+-Значок "Ловушка"
+
+-Награда: 10 монеток</Element>
+		<Element Name="LevelDesc_3">-Доступ к кастомизации
+-Доступ к ежедневной рекламе
+-Значок "Множество"
+-Значок "Монетка"
+
+-Награда: 15 монеток</Element>
+		<Element Name="LevelDesc_4">-Значок "Указатель"
+-Значок "Второй шанс"
+
+-Награда: 20 монеток</Element>
+		<Element Name="LevelDesc_5">-Значок "Увеличитель"
+
+-Награда: 25 монеток</Element>
+		<Element Name="LevelDesc_6">
+-Значок "Заморозить"
+
+-Награда: 30 монеток</Element>
+		<Element Name="LevelDesc_7">
+-Значок "Случайность"
+
+-Награда: 35 монеток</Element>
+
+		<Element Name ="T_Arrow">Когда видишь такую стрелочку то просто свайпай в ее сторону</Element>
+		<Element Name ="T_Transfer">Свайпай в противоположную сторону от значка</Element>
+		<Element Name ="T_Question">Свайпни в сторону значка что бы на его месте появился другой</Element>
+		<Element Name ="T_Swipes">Проведи в сторону значка указанное кол-во раз</Element>
+		<Element Name ="T_Coin">Проведи в сторону значка, чтобы получить монетку</Element>
+		<Element Name ="T_Fuller">Проведи в сторну значка, чтобы увеличь кубик</Element>
+		<Element Name ="T_Freezer">Проведи в сторну значка, чтобы заморозить кубик</Element>
+		<Element Name ="T_Life">Проведи в сторну значка, чтобы получить жизни</Element>
+		<Element Name ="T_Multiplier">Проведи в сторну значка, чтобы получить множитель к очкам</Element>
+
+		<Element Name="UI_LabelNextLevel">На следующем уровне:</Element>
+	</TranslationMap>
+
+	<TranslationMap Languge="Debug">
+		<!--                    | Daily Screen |                    -->
+		<Element Name="UI_Daily_CoinsForAds">UI_CoinsForAds</Element>
+		<Element Name="UI_Seconds">UI_Seconds</Element>
+		<Element Name="UI_Minutes">UI_Minutes</Element>
+		<Element Name="UI_Hours">UI_Hours</Element>
+		<!--                                    -->
+		<!--                       | TopBar |                       -->
+		<Element Name="UI_Lvl">UI_Lvl</Element>
+		<!--                                                        -->
+		<!--                   | MainMenu Screen |                  -->
+		<Element Name="UI_MainMenu_ModeName_Classic">UI_MainMenu_ModeName_Classic</Element>
+		<Element Name="UI_MainMenu_ModeName_Time">UI_MainMenu_ModeName_Time</Element>
+		<Element Name="UI_MainMenu_ModeName_Versus">UI_MainMenu_ModeName_Versus</Element>
+		<Element Name="UI_MainMenu_ModeDescription_Classic">UI_MainMenu_ModeDescription_Classic</Element>
+		<Element Name="UI_MainMenu_ModeDescription_Time">UI_MainMenu_ModeDescription_Time</Element>
+		<Element Name="UI_MainMenu_ModeDescription_Versus">UI_MainMenu_ModeDescription_Versus</Element>
+		
+		<Element Name="UI_MainMenu_Training_GameMods">UI_LabelNextLevel</Element>
+		<Element Name="UI_MainMenu_Training_Customize">UI_LabelNextLevel</Element>
+		<!--                                                        -->
+		<!--                  | Inventory Screen |                  -->
+		<Element Name="UI_Inventory_Selected">UI_IsSelected</Element>
+		<Element Name="Message_NotEnoughCoins">Message_NotEnoughCoins</Element>
+		<!--                                                        -->
+		<!--                     | Lose Screen |                    -->
+		<Element Name="UI_Best">UI_Best</Element>
+		<Element Name="Message_NewBest">Message_NewBest</Element>
+		<!--               |Dual Lose Screen|                -->
+		<Element Name="UI_YouLose">UI_YouLose</Element>
+		<Element Name="UI_YouWin">UI_YouWin</Element>
+		<!--                                                 -->
+		<!--                                                        -->
+		<!--                        | Other |                       -->
+		<Element Name="Training_ReducingCube">Training_ReducingCube</Element>
+		<Element Name="UI_NewLevel_LabelOpen">UI_NewLevel_LabelOpen</Element>
+		<Element Name="UI_OpenNumber">UI_OpenNumber</Element>
+		<Element Name="UI_Bonus">UI_Bonus{0}</Element>
+		<Element Name="Message_NewLevel">Message_NewLevel</Element>
+		<Element Name="UI_AdsLoading">UI_AdsLoading</Element>
+		<Element Name="Format_NeedScores">Format_NeedScores{0}</Element>
+		<Element Name="UI_MaxLevel">UI_MaxLevel</Element>
+		<Element Name="LevelDesc_2">LevelDesc_2
+</Element>
+		<Element Name="LevelDesc_3">LevelDesc_3
+</Element>
+		<Element Name="LevelDesc_4">LevelDesc_4
+</Element>
+		<Element Name="LevelDesc_5">LevelDesc_5
+</Element>
+		<Element Name="LevelDesc_6">LevelDesc_6
+</Element>
+		<Element Name="LevelDesc_7">LevelDesc_7
+</Element>
+		<!--                                                        -->
+
+
+		<!--                                                        -->
+		<Element Name ="T_Arrow">T_Arrow</Element>
+		<Element Name ="T_Transfer">T_Transfer</Element>
+		<Element Name ="T_Question">T_Question</Element>
+		<Element Name ="T_Swipes">T_Swipes</Element>
+		<Element Name ="T_Coin">T_Coin</Element>
+		<Element Name ="T_Fuller">T_Fuller</Element>
+		<Element Name ="T_Freezer">T_Freezer</Element>
+		<Element Name ="T_Life">T_Life</Element>
+		<Element Name ="T_Multiplier">T_Multiplier</Element>
+		<!--                                                        -->
+
+		<!--                   | Levels Screen |                    -->
+		<Element Name="UI_LabelNextLevel">UI_LabelNextLevel</Element>
+		<!--                                                        -->
+		<Element Name="UI_MainMenu_Training_GameMods">UI_MainMenu_Training_GameMods</Element>
+		<Element Name="UI_MainMenu_Training_Customize">UI_MainMenu_Training_Customize</Element>
+		<Element Name="UI_TopBar_Training_SmallLevelViewer">UI_TopBar_Training_SmallLevelViewer</Element>
+	</TranslationMap>
+</Package>

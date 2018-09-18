@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding="UTF-8" ?>
+
+<Meta>
+	<TranslationCache Languge="English">EuropeTranslatePackage</TranslationCache>
+	<TranslationCache Languge="German">EuropeTranslatePackage</TranslationCache>
+	<TranslationCache Languge="Russian">DefaultTranslatePackge</TranslationCache>
+	<TranslationCache Languge="Debug">DefaultTranslatePackge</TranslationCache>
+</Meta>

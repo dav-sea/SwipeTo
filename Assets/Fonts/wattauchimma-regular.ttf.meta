@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: be569aa22940c734ea9dcc78e32866ec
+timeCreated: 1513421825
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Wattauchimma
+  fontNames:
+  - Wattauchimma
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
